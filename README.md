@@ -1,34 +1,31 @@
 # <div align="center">nano SaleemAdebayo.github</div>
 <div align="center">
-    <h3>AI Engineer building intelligent systems that solve real-world problems 🤖</h3>
+    <p>AI Engineer building intelligent systems that solve real-world problems 🤖</p>
 </div>
 
 <div align="center">
     <a href="https://twitter.com/bayoleems" target="blank">
-        <img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="[bayoleems](https://x.com/bayoleems)" />
-    </a>
+        <img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="[bayoleems](https://x.com/bayoleems)" /></a>
     <a href="https://linkedin.com/in/saleem-adebayo" target="blank">
-        <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/saleem-adebayo" />
-    </a>
+        <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/saleem-adebayo" /></a>
     <a href="mailto:bayoleems@gmail.com">
-        <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="bayoleems@gmail.com" />
-    </a>
+        <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="bayoleems@gmail.com" /></a>
 </div>
 
-### 🎯 Current Focus
+#### 🎯 Current Focus
 
-- 🔭 Working on **agentic solutions, smart contracts, recommender systems and web crawling services**
-- 🌱 Learning **Blockchain Development and Distributed Computing**
+- 🔭 Working on agentic solutions, smart contracts, recommender systems and web crawling services
+- 🌱 Learning Blockchain Development and Distributed Computing
 - 💡 Building solutions serving 40k+ businesses across Africa
 - 🤝 Open to collaborating on AI/ML projects
 
-### 🚀 Quick Highlights
+#### 🚀 Quick Highlights
 
 - Developed recommender systems with matrix factorization
 - Created dual-platform AI agents and automated financial systems
 - Working on DeSci applications & computer vision analytics
 
-### 🛠 Tech Stack
+#### 🛠 Tech Stack
 
 <div align="center">
 
@@ -36,7 +33,7 @@
 
 </div>
 
-### 💻 Core Technologies
+#### 💻 Core Technologies
 
 <div align="center">
 
