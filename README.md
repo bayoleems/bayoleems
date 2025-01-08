@@ -49,7 +49,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bayoleems&show_icons=true&theme=graywhite" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-liard-zeta-23.vercel.app/api?username=bayoleems&show_icons=true&theme=graywhite" alt="GitHub Stats" />
 </div>
 
 ### ⚡ Fun Fact
