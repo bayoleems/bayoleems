@@ -15,7 +15,7 @@
 #### 🎯 Current Focus
 
 - 🔭 Working on agentic solutions, smart contracts, recommender systems and web crawling services
-- 🌱 Learning Blockchain Development and Distributed Computing
+- 🌱 Learning Distributed Computing
 - 💡 Building solutions serving 40k+ businesses across Africa
 - 🤝 Open to collaborating on AI/ML projects
 
@@ -44,13 +44,6 @@
 ![Data Science](https://img.shields.io/badge/Data_Science-black?style=flat-square&logo=pandas&logoColor=white)
 ![AI Engineering](https://img.shields.io/badge/AI_Engineering-black?style=flat-square&logo=openai&logoColor=white)
 
-</div>
-
-### 📊 GitHub Stats
-
-<div align="center">
-    <img src="https://github-readme-stats-liard-zeta-23.vercel.app/api?username=bayoleems&show_icons=true&theme=graywhite" alt="GitHub Stats" />
-</div>
 
 ### ⚡ Fun Fact
 *Shunsui Kyoraku's Bankai, Katen Kyokotsu Karamatsu Shinjuu, is a powerful ability in Bleach that turns a theater play into reality and forces his opponent to act in it.*
